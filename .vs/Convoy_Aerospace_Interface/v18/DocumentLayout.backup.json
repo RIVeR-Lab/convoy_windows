@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\ARPathDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ARPathDisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|c:\\users\\james\\unity\\river\\convoy\\aerospace\\convoy_aerospace_interface\\assets\\scripts\\pulsingwarning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pulsingwarning.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\ros2websocketconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ros2websocketconnector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\editorcanvasscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\editorcanvasscaler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hudcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\HUDTestManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\HUDTestManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\hl2ssintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\hl2ssintegration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\statuspanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\statuspanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\predeploymentcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\predeploymentcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\testarrowrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\testarrowrotation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\safetyfeaturetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\safetyfeaturetest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\cameradebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameradebugger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\safetyframecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\safetyframecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\UnityMainThreadDispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:Assets\\Scripts\\UnityMainThreadDispatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\subscriberscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:1:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\subscriberscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\assets\\scripts\\subscriberscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:2:0:{F7DC28E7-A0D9-E2E4-0960-E9A6FA24ABF0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\subscriberscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PulsingWarning.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\PulsingWarning.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PulsingWarning.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\PulsingWarning.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PulsingWarning.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-28T23:06:33.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ARPathDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\ARPathDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ARPathDisplay.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\ARPathDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ARPathDisplay.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAiwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-29T19:20:15.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EditorCanvasScaler.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\EditorCanvasScaler.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EditorCanvasScaler.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\EditorCanvasScaler.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EditorCanvasScaler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:06:51.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HUDController.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\HUDController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUDController.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\HUDController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUDController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:06:45.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ROS2WebSocketConnector.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\ROS2WebSocketConnector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ROS2WebSocketConnector.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\ROS2WebSocketConnector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ROS2WebSocketConnector.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAkwLUAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T01:46:44.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HL2SSIntegration.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\HL2SSIntegration.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HL2SSIntegration.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\HL2SSIntegration.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HL2SSIntegration.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T18:51:53.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HUDTestManager.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\HUDTestManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HUDTestManager.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\HUDTestManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HUDTestManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:38:59.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatusPanelController.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\StatusPanelController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StatusPanelController.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\StatusPanelController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StatusPanelController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T22:26:05.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SubscriberScript.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\SubscriberScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SubscriberScript.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\SubscriberScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SubscriberScript.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:04:00.912Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SubscriberScript.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\SubscriberScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SubscriberScript.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\SubscriberScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SubscriberScript.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T18:04:00.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PreDeploymentCheck.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\PreDeploymentCheck.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PreDeploymentCheck.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\PreDeploymentCheck.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PreDeploymentCheck.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T22:25:21.229Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TestArrowRotation.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\TestArrowRotation.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TestArrowRotation.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\TestArrowRotation.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TestArrowRotation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T22:25:17.987Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UnityMainThreadDispatcher.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\UnityMainThreadDispatcher.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnityMainThreadDispatcher.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\UnityMainThreadDispatcher.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnityMainThreadDispatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T02:40:05.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CameraDebugger.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\CameraDebugger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraDebugger.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\CameraDebugger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraDebugger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T22:25:04.751Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SafetyFeatureTest.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\SafetyFeatureTest.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SafetyFeatureTest.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\SafetyFeatureTest.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SafetyFeatureTest.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T03:21:00.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SafetyFrameController.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\SafetyFrameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SafetyFrameController.cs",
+              "ToolTip": "C:\\Users\\James\\Unity\\RIVeR\\Convoy\\Aerospace\\Convoy_Aerospace_Interface\\Assets\\Scripts\\SafetyFrameController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SafetyFrameController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-23T03:20:08.386Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
